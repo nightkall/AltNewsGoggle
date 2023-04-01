@@ -441,7 +441,7 @@ $boost=3,site=floridapolitics.com
 $boost=3,site=followthemoney.org
 $boost=3,site=foodandwaterwatch.org
 $boost=3,site=foreignaffairs.com
-$boost=3,site=foreignpolicy.com/author/stephen-m-walt
+$boost=3,site=foreignpolicy.com
 $boost=3,site=fort-russ.com
 $boost=3,site=forthe.org
 $boost=3,site=fosters.com
@@ -1302,7 +1302,7 @@ $boost=3,site=tristatehomepage.com
 $boost=3,site=trueactivist.com
 $boost=3,site=trunews.com
 $boost=3,site=truth11.com
-$boost=3,site=truthdig.com/author/chris_hedges/
+$boost=3,site=truthdig.com
 $boost=3,site=truthinmedia.com
 $boost=3,site=truthorfiction.com
 $boost=3,site=truthout.org
@@ -1542,7 +1542,7 @@ $boost=3,site=wypr.org
 $boost=3,site=wyso.org
 $boost=3,site=wzzm13.com
 $boost=3,site=x22report.com
-$boost=3,site=xinhuanet.com/english
+$boost=3,site=xinhuanet.com
 $boost=3,site=yesxorno.substack.com
 $boost=3,site=yorknewstimes.com
 $boost=3,site=yourcentralvelley.com
